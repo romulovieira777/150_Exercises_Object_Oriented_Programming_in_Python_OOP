@@ -1,0 +1,10 @@
+Info
+
+You may skip this section if you already have a runtime environment set up and proceed to the next section. Otherwise,
+if you wish to configure your environment, you can follow the instructions below to:
+
+Use the Google Colab tool to work in the cloud
+
+Install Anaconda on Windows 10
+
+Install Anaconda on Linux (Ubuntu)
