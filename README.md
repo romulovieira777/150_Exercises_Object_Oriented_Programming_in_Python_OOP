@@ -8,5 +8,6 @@
 - [Section 05 - The LEGB Rule](https://github.com/romulovieira777/150_Exercises_Object_Oriented_Programming_in_Python_OOP/tree/main/Section_05_The_LEGB_Rule)
 - [Section 06 - Reminder: *args and **kwargs](https://github.com/romulovieira777/150_Exercises_Object_Oriented_Programming_in_Python_OOP/tree/main/Section_06_Reminder_args_and_kwargs)
 - [Section 07 - Classes - The Basics](https://github.com/romulovieira777/150_Exercises_Object_Oriented_Programming_in_Python_OOP/tree/main/Section_07_Classes_The_Basics)
+- [Section 08 - Class Attributes](https://github.com/romulovieira777/150_Exercises_Object_Oriented_Programming_in_Python_OOP/tree/main/Section_08_Class_Attributes)
 
 Link to the course: [Udemy](https://www.udemy.com/course/exercises-object-oriented-programming-in-python-oop-course/)
