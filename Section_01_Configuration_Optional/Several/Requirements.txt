@@ -2,4 +2,4 @@ Requirements
 
 Make sure you meet the course requirements before proceeding. See RECOMMENDED LEARNING PATHS!
 
-Resources for this lecture
+Resources for this lecture.
