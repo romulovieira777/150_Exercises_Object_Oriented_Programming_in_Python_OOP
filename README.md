@@ -13,6 +13,6 @@
 - [Section 10 - The __init__() Method](https://github.com/romulovieira777/150_Exercises_Object_Oriented_Programming_in_Python_OOP/tree/main/Section_10_The_init_Method)
 - [Section 11 - Visibility of Variables](https://github.com/romulovieira777/150_Exercises_Object_Oriented_Programming_in_Python_OOP/tree/main/Section_11_Visibility_of_Variables)
 - [Section 12 - Encapsulation](https://github.com/romulovieira777/150_Exercises_Object_Oriented_Programming_in_Python_OOP/tree/main/Section_12_Encapsulation)
-- [Section 13 - Computed Attributes]()
+- [Section 13 - Computed Attributes](https://github.com/romulovieira777/150_Exercises_Object_Oriented_Programming_in_Python_OOP/tree/main/Section_13_Computed_Attributes)
 
 Link to the course: [Udemy](https://www.udemy.com/course/exercises-object-oriented-programming-in-python-oop-course/)
