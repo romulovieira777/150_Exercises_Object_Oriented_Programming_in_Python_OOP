@@ -17,5 +17,6 @@
 - [Section 14 - Class Method - Decorator @classmethod](https://github.com/romulovieira777/150_Exercises_Object_Oriented_Programming_in_Python_OOP/tree/main/Section_14_Class_Method_Decorator_classmethod)
 - [Section 15 - Static Method - Decorator @staticmethod](https://github.com/romulovieira777/150_Exercises_Object_Oriented_Programming_in_Python_OOP/tree/main/Section_15_Class_Method_Decorator_staticmethod)
 - [Section 16 - Special Methods](https://github.com/romulovieira777/150_Exercises_Object_Oriented_Programming_in_Python_OOP/tree/main/Section_16_Special_Methods)
+- [Section 17 - Inheritance](https://github.com/romulovieira777/150_Exercises_Object_Oriented_Programming_in_Python_OOP/tree/main/Section_17_Inheritance)
 
 Link to the course: [Udemy](https://www.udemy.com/course/exercises-object-oriented-programming-in-python-oop-course/)
