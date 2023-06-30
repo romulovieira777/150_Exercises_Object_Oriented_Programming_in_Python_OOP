@@ -1,7 +1,7 @@
 """
 Exercise No. 14
 
-The following classes are defined. Add the __ijnit__() method to the Person class, which sets three attributes:
+The following classes are defined. Add the __init__() method to the Person class, which sets three attributes:
 
     - first_name
     - last_name
