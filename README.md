@@ -19,6 +19,6 @@
 - [Section 16 - Special Methods](https://github.com/romulovieira777/150_Exercises_Object_Oriented_Programming_in_Python_OOP/tree/main/Section_16_Special_Methods)
 - [Section 17 - Inheritance](https://github.com/romulovieira777/150_Exercises_Object_Oriented_Programming_in_Python_OOP/tree/main/Section_17_Inheritance)
 - [Section 18 - Abstract Classes](https://github.com/romulovieira777/150_Exercises_Object_Oriented_Programming_in_Python_OOP/tree/main/Section_18_Abstract_Classes)
-- [Section 19 - Summary]()
+- [Section 19 - Summary](https://github.com/romulovieira777/150_Exercises_Object_Oriented_Programming_in_Python_OOP/tree/main/Section_19_Summary)
 
 Link to the course: [Udemy](https://www.udemy.com/course/exercises-object-oriented-programming-in-python-oop-course/)
